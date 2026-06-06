@@ -1,0 +1,105 @@
+match_id,home_team,away_team,Score,Winning team,Penalties
+1,Mexico,South Africa,1-0,home,False
+2,Korea Republic,Czech Republic,1-1,draw,False
+3,Canada,Bosnia and Herzegovina,0-0,draw,False
+4,USA,Paraguay,1-0,home,False
+5,Australia,Turkey,0-1,away,False
+6,Qatar,Switzerland,0-1,away,False
+7,Brazil,Morocco,0-0,draw,False
+8,Haiti,Scotland,0-2,away,False
+9,Germany,Curaçao,2-0,home,False
+10,Netherlands,Japan,1-0,home,False
+11,Côte d'Ivoire,Ecuador,1-1,draw,False
+12,Sweden,Tunisia,1-0,home,False
+13,Spain,Cabo Verde,2-0,home,False
+14,Belgium,Egypt,1-0,home,False
+15,Saudi Arabia,Uruguay,0-1,away,False
+16,Iran,New Zealand,0-1,away,False
+17,Austria,Jordan,1-0,home,False
+18,France,Senegal,1-1,draw,False
+19,Iraq,Norway,0-1,away,False
+20,Argentina,Algeria,1-0,home,False
+21,Portugal,DR Congo,2-0,home,False
+22,England,Croatia,1-0,home,False
+23,Ghana,Panama,1-1,draw,False
+24,Uzbekistan,Colombia,0-1,away,False
+25,Czech Republic,South Africa,1-0,home,False
+26,Switzerland,Bosnia and Herzegovina,1-0,home,False
+27,Canada,Qatar,1-0,home,False
+28,Mexico,Korea Republic,1-1,draw,False
+29,Turkey,Paraguay,1-0,home,False
+30,USA,Australia,1-0,home,False
+31,Scotland,Morocco,0-1,away,False
+32,Brazil,Haiti,1-0,home,False
+33,Tunisia,Japan,0-1,away,False
+34,Netherlands,Sweden,1-1,draw,False
+35,Germany,Côte d'Ivoire,1-0,home,False
+36,Ecuador,Curaçao,1-0,home,False
+37,Spain,Saudi Arabia,2-0,home,False
+38,Belgium,Iran,1-0,home,False
+39,Uruguay,Cabo Verde,1-0,home,False
+40,New Zealand,Egypt,0-1,away,False
+41,Argentina,Austria,1-0,home,False
+42,France,Iraq,1-0,home,False
+43,Norway,Senegal,1-1,draw,False
+44,Jordan,Algeria,0-0,draw,False
+45,Portugal,Uzbekistan,1-0,home,False
+46,England,Ghana,1-0,home,False
+47,Panama,Croatia,0-1,away,False
+48,Colombia,DR Congo,2-0,home,False
+49,Switzerland,Canada,1-0,home,False
+50,Bosnia and Herzegovina,Qatar,0-0,draw,False
+51,Scotland,Brazil,1-1,draw,False
+52,Morocco,Haiti,2-0,home,False
+53,Czech Republic,Mexico,1-1,draw,False
+54,South Africa,Korea Republic,0-1,away,False
+55,Curaçao,Côte d'Ivoire,0-1,away,False
+56,Ecuador,Germany,0-1,away,False
+57,Japan,Sweden,1-1,draw,False
+58,Tunisia,Netherlands,0-1,away,False
+59,USA,Turkey,1-1,draw,False
+60,Paraguay,Australia,0-0,draw,False
+61,Norway,France,1-1,draw,False
+62,Senegal,Iraq,1-0,home,False
+63,Cabo Verde,Saudi Arabia,0-0,draw,False
+64,Uruguay,Spain,0-1,away,False
+65,Egypt,Iran,1-0,home,False
+66,New Zealand,Belgium,0-1,away,False
+67,Panama,England,0-2,away,False
+68,Croatia,Ghana,1-1,draw,False
+69,Colombia,Portugal,0-1,away,False
+70,DR Congo,Uzbekistan,0-1,away,False
+71,Algeria,Austria,0-1,away,False
+72,Jordan,Argentina,0-1,away,False
+73,Korea Republic,Canada,1-1,home,True
+74,Morocco,Sweden,1-0,home,False
+75,Germany,Scotland,1-1,home,True
+76,Netherlands,Brazil,1-0,home,False
+77,Côte d'Ivoire,Norway,1-1,away,True
+78,France,Japan,1-0,home,False
+79,Mexico,Senegal,0-1,away,False
+80,England,Czech Republic,1-0,home,False
+81,Belgium,Ecuador,1-0,home,False
+82,Turkey,Paraguay,1-0,home,False
+83,Colombia,Croatia,0-1,away,False
+84,Spain,Austria,1-1,home,True
+85,Switzerland,New Zealand,1-0,home,False
+86,USA,Egypt,1-0,home,False
+87,Argentina,Uruguay,1-0,home,False
+88,Portugal,Bosnia and Herzegovina,2-0,home,False
+89,Korea Republic,Germany,0-1,away,False
+90,Morocco,Norway,1-0,home,False
+91,Netherlands,France,1-1,away,True
+92,Senegal,England,0-1,away,False
+93,Croatia,Spain,0-1,away,False
+94,Belgium,Turkey,1-1,home,True
+95,USA,Portugal,0-1,away,False
+96,Switzerland,Argentina,0-1,away,False
+97,Germany,Morocco,0-0,home,True
+98,Spain,Belgium,1-0,home,False
+99,France,England,1-1,home,True
+100,Portugal,Argentina,1-1,home,True
+101,Germany,Spain,1-1,away,True
+102,France,Portugal,1-1,home,True
+103,Germany,Portugal,1-1,away,True
+104,Spain,France,1-1,home,True
