@@ -205,7 +205,7 @@ Para preencher os slots do mata-mata de forma fundamentada, o torneio será simu
 
 * **Etapa de desenvolvimento:** treinar com dados até 2021 e testar na Copa do Mundo de 2022, permitindo avaliar a abordagem e ajustar features e hiperparâmetros com base em resultados reais.
 
-### Resultados Fase de Grupos
+### Resultados Fase de Grupos - 2022
 
 * Total de jogos avaliados: 48 
 * Precisão de Resultado (1x2): **52.1% (25/48)**
@@ -267,7 +267,7 @@ Para preencher os slots do mata-mata de forma fundamentada, o torneio será simu
 - 🎯 Placar exato
 - ❌ Erro
 
-### Resultado mata-mata
+### Resultado mata-mata - 2022
 
 * Total de jogos de mata-mata avaliados: 16
 * (Acertos de Confronto Exato (Na fase correta): 12.5% (2/16)
@@ -297,9 +297,11 @@ Para preencher os slots do mata-mata de forma fundamentada, o torneio será simu
 - ❌ Erro
 - ``-`` Confronto não ocorreu devido a divergências nas fases anteriores do torneio
 
-* **Modelo final:** retreinado com todos os dados disponíveis (2018 até os jogos de 2026 pré-Copa) e submeter as previsões da Copa do Mundo de 2026.
+---
 
-### Resultados fase de grupos
+**Modelo final:** retreinado com todos os dados disponíveis (2018 até os jogos de 2026 pré-Copa) e submeter as previsões da Copa do Mundo de 2026.
+
+### Resultados fase de grupos - 2026
 
 * Total de jogos: 72
 * % de cada seleção passar na respectiva posição do seu grupo.
@@ -414,7 +416,7 @@ Para preencher os slots do mata-mata de forma fundamentada, o torneio será simu
 
 * **Seleções que passaram em 3°:** ``'Czech Republic', 'Scotland', 'Ecuador', 'Senegal', 'New Zealand', 'Japan', 'Bosnia and Herzegovina', 'Ghana'``.
 
-### Resultado mata-mata
+### Resultado mata-mata - 2026
 
 * Total de jogos: 31.
 
