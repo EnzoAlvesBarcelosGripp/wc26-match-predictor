@@ -426,10 +426,10 @@ Para preencher os slots do mata-mata de forma fundamentada, o torneio será simu
 | 🥈 2 | France | Vice-campeão |
 | 🥉 3 | Portugal | 3º Lugar |
 | 4 | Germany | 4º Lugar |
-| 5-8 | Belgium | Semifinal |
-| 5-8 | England | Semifinal |
-| 5-8 | Argentina | Semifinal |
-| 5-8 | Morocco | Semifinal |
+| 5-8 | Belgium | Quartas |
+| 5-8 | England | Quartas |
+| 5-8 | Argentina | Quartas |
+| 5-8 | Morocco | Quartas |
 | 9-16 | Korea Republic | Oitavas |
 | 9-16 | Norway | Oitavas |
 | 9-16 | Netherlands | Oitavas |
